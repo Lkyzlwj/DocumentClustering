@@ -1,0 +1,7 @@
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\bin\Release\DocumentClustering.exe
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\bin\Release\DocumentClustering.pdb
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\bin\Release\CommonUtils.dll
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\bin\Release\CommonUtils.pdb
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\obj\Release\DocumentClustering.csprojResolveAssemblyReference.cache
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\obj\Release\DocumentClustering.exe
+E:\code\c#\demo\DocumentClustering\DocumentClustering\DocumentClustering\obj\Release\DocumentClustering.pdb

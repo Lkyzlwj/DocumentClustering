@@ -1,0 +1,7 @@
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\bin\Debug\TestDemos.exe
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\bin\Debug\TestDemos.pdb
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\bin\Debug\DocumentClustering.exe
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\bin\Debug\DocumentClustering.pdb
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\obj\Debug\TestDemos.csprojResolveAssemblyReference.cache
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\obj\Debug\TestDemos.exe
+E:\code\c#\demo\DocumentClustering\DocumentClustering\TestDemos\obj\Debug\TestDemos.pdb

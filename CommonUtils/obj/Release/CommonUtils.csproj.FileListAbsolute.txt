@@ -1,0 +1,4 @@
+E:\code\c#\demo\DocumentClustering\DocumentClustering\CommonUtils\bin\Release\CommonUtils.dll
+E:\code\c#\demo\DocumentClustering\DocumentClustering\CommonUtils\bin\Release\CommonUtils.pdb
+E:\code\c#\demo\DocumentClustering\DocumentClustering\CommonUtils\obj\Release\CommonUtils.dll
+E:\code\c#\demo\DocumentClustering\DocumentClustering\CommonUtils\obj\Release\CommonUtils.pdb
